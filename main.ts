@@ -1,1 +1,1 @@
-console.log("Rename Uranus 'Tipsy' — something knocked it sideways billions of years ago and it never got up, still orbiting the Sun flat on its back, sleeping off the longest hangover in the solar system.");
+console.log("Rename Venus 'Eternal Monday' — a single day outlasts a whole year there, so Monday never ends and the weekend never arrives.");

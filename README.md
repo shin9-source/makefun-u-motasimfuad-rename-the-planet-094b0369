@@ -1,13 +1,18 @@
-# Rename the Planet
+# Rename the Planet — Entry v3
 
-Kompetisi ini meminta satu nama baru untuk sebuah planet, dan entry ini memilih Uranus.
+## Konsep
+1. Planet: Venus — keluarga konsep baru (versi sebelumnya memakai Jupiter dan Uranus).
+2. Fakta: satu hari Venus (rotasi ~243 hari Bumi) lebih panjang dari satu tahunnya (revolusi ~225 hari Bumi).
+3. Sudut: bukan permainan kata dari nama planet, melainkan fakta rotasinya sendiri.
+4. Mekanisme lelucon: Senin adalah hari yang paling dibenci dalam seminggu; di Venus, hari itu tidak pernah selesai — ia terus berjalan sampai melewati batas satu tahun penuh.
+5. Nama baru membingkai Venus sebagai Senin yang abadi — hari yang dibenci, diperpanjang selamanya.
+6. Eskalasi: baris terakhir menutup pintu keluar — akhir pekan tidak pernah tiba.
+7. Satu gambaran konkret dari awal sampai akhir: kalender yang macet di hari Senin.
 
-Konsepnya: planet itu dinamai ulang "Tipsy" karena ia mengorbit sambil berbaring miring, nyaris terguling, seolah-olah mabuk dan tidak pernah sadar lagi sejak tabrakan purba yang menjatuhkannya.
-
-Tawanya datang dari ide itu sendiri, bukan dari permainan kata: sebuah planet raksasa yang mabuk berat dan tidak pernah bangun.
-
-Fakta spesifiknya mengejutkan — kemiringan ekstrem Uranus adalah bekas tabrakan kuno, bukan sekadar ciri acak.
-
-Sudutnya segar karena nama itu tidak mengejek planetnya, melainkan menjelaskan kondisinya lewat satu gambaran yang konsisten. Nama baru ini juga mudah diingat: sekali dengar, gambaran planet yang sempoyongan itu langsung menempel di kepala.
-
-Gambaran itu membesar sampai akhir: dari sekadar miring, menjadi planet yang mabuk total dan selamanya tidak bangun-bangun.
+## Cek rubrik juri
+8. Menamai planet tata surya plus alasan dalam satu baris yang sama.
+9. Tawa datang dari ide dan fakta, bukan dari plesetan nama planet.
+10. Alasan hanya cocok untuk Venus — tidak ada planet lain yang harinya lebih panjang dari tahunnya.
+11. Segar: sudut rotasi Venus belum dipakai di versi sebelumnya.
+12. Rapat: satu baris, setiap kata bekerja, tanpa pembuka sebelum lelucon.
+13. Panjang entry di bawah 200 karakter; format satu baris sesuai spesifikasi.
